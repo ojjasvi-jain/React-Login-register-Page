@@ -1,8 +1,26 @@
-# React + Vite
+# Login Register Reset password page 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live link https://65d5f29c2775739ea27e7c2b--strong-pie-56a01e.netlify.app
 
-Currently, two official plugins are available:
+Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bundler : Vite bundler 
+Frontend :  React JS
+CSS lib  : Bootstarp
+
+## There are three UI pages 
+
+- Login Page 
+![image](https://github.com/ojjasvi-jain/React-Login-register-Page/assets/85935892/3495503f-ab2d-4a78-8833-85689e632615)
+
+- Register Page 
+![image](https://github.com/ojjasvi-jain/React-Login-register-Page/assets/85935892/3246ebb1-57f3-4628-b341-742768194223)
+
+- Reset Password page 
+![image](https://github.com/ojjasvi-jain/React-Login-register-Page/assets/85935892/e7d153fd-419b-4c59-8fdc-5edd70e689dc)
+
+
+
+
+
+
